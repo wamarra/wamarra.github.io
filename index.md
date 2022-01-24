@@ -18,7 +18,7 @@ Projeto destinados aos amigos da cerveja onde os usuários poderão compatilhar 
 <img src="images/f8.png" alt="f8" width="150"/>
 <img src="images/f9.png" alt="f9" width="150"/>
 <img src="images/f10.png" alt="f10" width="150"/>
-<img src="images/F11.png" alt="f11" width="150"/>
+<img src="images/f11.png" alt="f11" width="150"/>
 <img src="images/f12.png" alt="f12" width="150"/>
 <img src="images/f13.png" alt="f13" width="150"/>
 <img src="images/f14.png" alt="f14" width="150"/>
