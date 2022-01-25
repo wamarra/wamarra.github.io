@@ -6,7 +6,9 @@ Buscando e projetando novas ideias.
 
 <span style="font-size: 20px; font-weight: bold">Beer Friends - O lugar dos amigos</span>
 
-Projeto destinado aos amigos da cerveja onde os usuários poderão compatilhar perfis, fotos, realizar novas amizades, divulgar eventos na cidade e muito mais.
+Projeto desenvolvido em `Swift` na versão `15.0` do IOS. 
+
+O aplicativo é destinado aos amigos da cerveja onde os usuários poderão compatilhar perfis, fotos, realizar novas amizades, divulgar eventos na cidade e muito mais.
 
 **Obs.:** As imagens dessa demonstração são meramente ilustrativas e retiradas do site [Unsplash](https://unsplash.com/) e os personagens são fictícios.
 
