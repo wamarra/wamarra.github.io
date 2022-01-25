@@ -4,7 +4,7 @@ Buscando e projetando novas ideias.
 
 ## Projetos
 
-###Beer Friends - O lugar dos amigos
+<span style="font-size: 20px; font-weight: bold">Beer Friends - O lugar dos amigos</span>
 
 Projeto destinado aos amigos da cerveja onde os usuários poderão compatilhar perfis, fotos, realizar novas amizades, divulgar eventos na cidade e muito mais.
 
