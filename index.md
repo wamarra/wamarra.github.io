@@ -1,4 +1,4 @@
-# Sejam bem-vindos!
+# Seja bem-vindo!
 
 Buscando e projetando novas ideias.
 
