@@ -25,8 +25,8 @@ Projeto destinados aos amigos da cerveja onde os usuários poderão compatilhar 
 <img src="images/f15.png" alt="f15" width="150"/>
 
 ### Política de privacidade e Termos de uso
-- [Política de privacidade](https://wamarra.github.io/privacyPolicy.md)
-- [Termos de uso](https://wamarra.github.io/termsOfUse.md)
+- [Política de privacidade](https://wamarra.github.io/privacyPolicy.html)
+- [Termos de uso](https://wamarra.github.io/termsOfUse.html)
 
 ### Suporte
 
