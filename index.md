@@ -8,6 +8,8 @@ Buscando e projetando novas ideias.
 
 Projeto destinado aos amigos da cerveja onde os usuários poderão compatilhar perfis, fotos, realizar novas amizades, divulgar eventos na cidade e muito mais.
 
+**Obs.:** As imagens dessa demonstração são meramente ilustrativas e retiradas do site [Unsplash](https://unsplash.com/) e os personagens são fictícios.
+
 <img src="images/f1.png" alt="f1" width="150"/>
 <img src="images/f2.png" alt="f2" width="150"/>
 <img src="images/f3.png" alt="f3" width="150"/>
