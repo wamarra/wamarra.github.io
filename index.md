@@ -1,10 +1,10 @@
-## Sejam bem-vindos!
+# Sejam bem-vindos!
 
 Buscando e projetando novas ideias.
 
-### Projetos
+## Projetos
 
-- **Beer Friends** - O lugar dos amigos
+###Beer Friends - O lugar dos amigos
 
 Projeto destinado aos amigos da cerveja onde os usuários poderão compatilhar perfis, fotos, realizar novas amizades, divulgar eventos na cidade e muito mais.
 
@@ -24,15 +24,28 @@ Projeto destinado aos amigos da cerveja onde os usuários poderão compatilhar p
 <img src="images/f14.png" alt="f14" width="150"/>
 <img src="images/f15.png" alt="f15" width="150"/>
 
-### Política de privacidade e Termos de uso
+<details open="" class="details-reset border rounded-2" style="padding-top: 30px">
+  <summary class="px-3 py-2 border-bottom">
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
+</svg>
+    <span aria-label="Video description beer-friends.mov" class="m-1">beer-friends-demo</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <video src="https://wamarra.github.io/videos/beer-friends.mov" data-canonical-src="https://wamarra.github.io/videos/beer-friends.mov" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px">
+
+  </video>
+</details>
+
+## Política de privacidade e Termos de uso
 - [Política de privacidade](https://wamarra.github.io/privacyPolicy.html)
 - [Termos de uso](https://wamarra.github.io/termsOfUse.html)
 
-### Suporte
+## Suporte
 
-Encontrou algum problema com o projeto? Por favor, registre no endereço de [suporte](https://github.com/wamarra/BeerFriends/issues) que ajudaremos você a resolver.
+Encontrou algum problema no aplicativo? Por favor, registre no endereço de [suporte](https://github.com/wamarra/BeerFriends/issues) que ajudaremos você a resolver.
 
-### Contato
+## Contato
 
 <strong>Nome:</strong> Wesley Marra <br>
 <strong>E-mail:</strong> <wamarra@gmail.com>
