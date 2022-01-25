@@ -1,7 +1,6 @@
 ---
 title: Política de Privacidade 
 layout: page
-permalink: /docs/
 ---
 
 <h2>Política de Privacidade</h2>

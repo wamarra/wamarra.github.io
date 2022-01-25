@@ -1,7 +1,6 @@
 ---
 title: Termos de Uso 
 layout: page
-permalink: /docs/
 ---
 
 <h2>1. Termos</h2>
