@@ -34,5 +34,8 @@ Encontrou algum problema com o projeto? Por favor, registre no endereço de [sup
 
 ### Contato
 
-**Nome:** Wesley Marra </br>
+**Nome:** Wesley Marra 
+
+<br>
+
 **E-mail:** <wamarra@gmail.com>
