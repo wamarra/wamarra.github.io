@@ -24,6 +24,10 @@ Projeto destinados aos amigos da cerveja onde os usuários poderão compatilhar 
 <img src="images/f14.png" alt="f14" width="150"/>
 <img src="images/f15.png" alt="f15" width="150"/>
 
+### Política de privacidade e Termos de uso
+- [Política de privacidade](https://wamarra.github.io/docs/privacyPolicy.md)
+- [Termos de uso]()
+
 ### Suporte
 
 Encontrou algum problema com o projeto? Por favor, registre no endereço de [suporte](https://github.com/wamarra/BeerFriends/issues) que ajudaremos você a resolver.
