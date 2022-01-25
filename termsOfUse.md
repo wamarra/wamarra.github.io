@@ -50,7 +50,6 @@ layout: page
 <p>O Beer Friends não analisou todos os aplicativos vinculados ao seu aplicativo e não é responsável pelo conteúdo de
     nenhum aplicativo vinculado. A inclusão de qualquer link não implica endosso por Beer Friends do aplicativo. O uso
     de qualquer aplicativo vinculado é por conta e risco do usuário.</p>
-</p>
 <h3>Modificações</h3>
 <p>O Beer Friends pode revisar estes termos de serviço do aplicativo a qualquer momento, sem aviso prévio. Ao usar este
     aplicativo, você concorda em ficar vinculado à versão atual desses termos de serviço.</p>
