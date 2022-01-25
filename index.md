@@ -6,7 +6,7 @@ Buscando e projetando novas ideias.
 
 - **Beer Friends** - O lugar dos amigos
 
-Projeto destinados aos amigos da cerveja onde os usuários poderão compatilhar perfis, fotos, realizar novas amizades, divulgar eventos na cidade e muito mais.
+Projeto destinado aos amigos da cerveja onde os usuários poderão compatilhar perfis, fotos, realizar novas amizades, divulgar eventos na cidade e muito mais.
 
 <img src="images/f1.png" alt="f1" width="150"/>
 <img src="images/f2.png" alt="f2" width="150"/>
