@@ -4,7 +4,7 @@ layout: page
 ---
 
 <h2>1. Termos</h2>
-<p>Ao acessar ao aplicativo <a href='https://wamarra.github.io/'>Beer Friends</a>, concorda em cumprir estes termos de
+<p>Ao acessar o aplicativo <a href='https://wamarra.github.io/'>Beer Friends</a>, concorda em cumprir estes termos de
     serviço, todas as leis e regulamentos aplicáveis ​​e concorda que é responsável pelo cumprimento de todas as leis
     locais aplicáveis. Se você não concordar com algum desses termos, está proibido de usar ou acessar este aplicativo.
     Os materiais contidos neste aplicativo são protegidos pelas leis de direitos autorais e marcas comerciais
