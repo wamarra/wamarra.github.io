@@ -8,7 +8,9 @@ Buscando e projetando novas ideias.
 
 Projeto desenvolvido em `Swift` na versão `15.0` do IOS. 
 
-O aplicativo é destinado aos amigos da cerveja onde os usuários poderão compatilhar perfis, fotos, realizar novas amizades, divulgar eventos na cidade e muito mais.
+O aplicativo Beer Friends é destinado aos amigos da cerveja onde os usuários poderão compartilhar perfis, fotos, realizar novas amizades, divulgar eventos na cidade e muito mais. Combinação perfeita, amigos e cervejas. Encontre seus amigos e descubra em qual barzinho ou eventos eles estão se reunindo e comemorando e não fique de fora das confraternizações. Faça parte dessa comunidade de cervejeiros e desfrute das melhores cervejas artesanais de sua cidade com seus amigos. 
+
+Daqui para frente a festa é sua, beba com qualidade e não em quantidade.
 
 **Obs.:** As imagens dessa demonstração são meramente ilustrativas e retiradas do site [Unsplash](https://unsplash.com/) e os personagens são fictícios.
 
