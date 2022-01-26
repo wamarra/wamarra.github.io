@@ -14,6 +14,8 @@ Daqui para frente a festa é sua, beba com qualidade e não em quantidade.
 
 **Obs.:** As imagens dessa demonstração são meramente ilustrativas e retiradas do site [Unsplash](https://unsplash.com/) e os personagens são fictícios.
 
+**IMPORTANTE: SE BEBER NÃO DIRIJA**
+
 <img src="images/f1.png" alt="f1" width="150"/>
 <img src="images/f2.png" alt="f2" width="150"/>
 <img src="images/f3.png" alt="f3" width="150"/>
