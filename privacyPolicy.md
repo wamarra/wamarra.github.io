@@ -16,8 +16,7 @@ layout: page
 <p>Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.
 </p>
 <p>O nosso aplicativo pode ter links para aplicativos externos que não são operados por nós. Esteja ciente de que não temos controle
-    sobre o conteúdo e práticas desses aplicativos e não podemos aceitar responsabilidade por suas respectivas <a
-        href='https://politicaprivacidade.com' target='_BLANK'>políticas de privacidade</a>. </p>
+    sobre o conteúdo e práticas desses aplicativos e não podemos aceitar responsabilidade por suas respectivas políticas de privacidade. </p>
 <p>Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer
     alguns dos serviços desejados.</p>
 <p>O uso continuado de nosso aplicativo será considerado como aceitação de nossas práticas em torno de privacidade e
