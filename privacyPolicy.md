@@ -103,6 +103,9 @@ layout: page
         ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou
         software que sejam capazes de causar danos anteriormente mencionados.</li>
 </ul>
+
+<p><strong>OBS.:</strong> Ao instalar o Beer Friends, você concorda em ficar vinculado a este Contrato e entende que não há tolerância para conteúdo censurável. Os usuários que não cumprirem com os termos aqui estabelecidos serão advertidos e/ou banidos do App</p>
+
 <h3>Mais informações</h3>
 <p>Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa
     ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso
