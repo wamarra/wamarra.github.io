@@ -38,7 +38,7 @@ Daqui para frente a festa é sua, beba com qualidade e não em quantidade.
 </div>
 
 ## App Store
-https://apps.apple.com/br/app/beer-friends/id1606956134
+[Localizar aplicativo na App Store](https://apps.apple.com/br/app/beer-friends/id1606956134)
 
 ## Política de privacidade e Termos de uso
 - [Política de privacidade](https://wamarra.github.io/privacyPolicy.html)
