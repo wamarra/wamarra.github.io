@@ -20,6 +20,5 @@ Por favor, registre no endereço de [suporte](https://github.com/wamarra/travel_
 ## Contato
 
 **Nome:** Wesley Marra  
-**E-mail:** <wamarra@gmail.com>  
-**GitHub Pages:** [Controle de viagem](https://wamarra.github.io/travel-control/)
+**E-mail:** <wamarra@gmail.com> 
 
